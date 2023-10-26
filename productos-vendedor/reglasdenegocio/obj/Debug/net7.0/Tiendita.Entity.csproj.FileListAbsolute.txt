@@ -1,0 +1,5 @@
+C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfo.cs
+C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.csproj.CoreCompileInputs.cache
