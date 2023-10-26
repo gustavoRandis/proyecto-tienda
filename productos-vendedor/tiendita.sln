@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ObjetosDeNegocio", "Objetos
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CasosdeUsos", "CasosdeUsos", "{BC0FD645-4F3C-478C-B4DD-24B143846776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiendita.ReglasdeNegocio", "Tiendita.ReglasdeNegocio\Tiendita.ReglasdeNegocio.csproj", "{33A58361-4304-42C6-A616-0A97D6D1C9A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiendita.ReglasdeNegocio", "Tiendita.ReglasdeNegocio\Tiendita.ReglasdeNegocio.csproj", "{33A58361-4304-42C6-A616-0A97D6D1C9A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
