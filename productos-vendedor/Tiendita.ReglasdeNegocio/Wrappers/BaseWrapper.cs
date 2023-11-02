@@ -12,3 +12,4 @@ namespace Tiendita.ReglasdeNegocio.Wrappers
         public string? Mensaje { get; set; }
     }
 }
+//Dotnet add package MySql.Data

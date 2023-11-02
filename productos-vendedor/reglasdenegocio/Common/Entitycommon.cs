@@ -8,3 +8,4 @@
 
     }
 }
+//Dotnet add package MySql.Data
