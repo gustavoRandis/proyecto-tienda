@@ -4,7 +4,8 @@ namespace reglasdenegocio.Entidades
 {
     public class Chat : Entitycommon
     {
-
+        //ESTA ENTIDAD REPRESENTA AL CHAT DONDE LAS PERSONAS ESCRIBIRAN SUS CONSULTAS
+        //SOBRE LOS PRODUCTOS Y LOS VENDEDORES SE ENCARGARAN DE RESPONDERLAS
         public int PreguntadoPor { get; set; }
         public int RespondidoPor { get; set;}
         public string Pregunta { get; set;}

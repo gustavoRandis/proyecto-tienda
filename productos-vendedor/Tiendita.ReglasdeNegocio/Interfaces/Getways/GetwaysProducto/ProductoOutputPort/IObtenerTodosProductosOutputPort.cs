@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 using Tiendita.ReglasdeNegocio.Wrappers.Vendedor;
 
-namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresVendedor
+namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoOutputPort
 {
-    public interface IBorrarVendedor
+    public interface IObtenerTodosProductosOutputPort
     {
-        Task<WrapperBorrarProducto> BorrarVendedor(int IdVendedor);
+        ValueTask Handle(WrapperObtenerTodosProductos productos);
     }
 }

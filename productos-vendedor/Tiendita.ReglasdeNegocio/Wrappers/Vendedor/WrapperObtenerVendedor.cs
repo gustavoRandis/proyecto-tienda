@@ -4,7 +4,7 @@ using Tiendita.ReglasdeNegocio.DTOs.VendedorDTO;
 
 namespace Tiendita.ReglasdeNegocio.Wrappers.Vendedor
 {
-    public class WrapperSeleccionarPorId : BaseWrapper
+    public class WrapperObtenerVendedor : BaseWrapper
     {
         public vendedor Vendedor { get; set; }
 
