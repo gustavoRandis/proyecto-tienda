@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Tiendita.ReglasdeNegocio.Presenters.ProductosPresentador
 {
-    internal interface IObtenerTodosProductos
+    public interface IObtenerTodosProductos
     {
+
     }
 }

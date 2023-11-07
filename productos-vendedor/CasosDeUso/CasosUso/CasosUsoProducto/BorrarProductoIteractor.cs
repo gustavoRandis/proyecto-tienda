@@ -8,4 +8,6 @@ using Tiendita.ReglasdeNegocio.ExcepcionesPersonales;
 using Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoInputPort;
 
 namespace CasosDeUso.CasosUso.CasosUsoProducto
-  
+{
+
+}
