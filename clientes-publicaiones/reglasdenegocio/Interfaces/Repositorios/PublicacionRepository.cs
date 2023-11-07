@@ -5,10 +5,10 @@ namespace Tiendita.Entity.Interfaces.Repositorios
     public interface PublicacionRepository
     {
         Task BuscarPor(int id);
-        Task DarDeAlta(Publicaciones publicacion);
-        Task DarDeBaja(int id);
-        Task Modificar(Publicaciones publicacion);
+        Task Crear(Publicacion publicacion);
+        Task Borrar(int id);
+        Task Modificar(Publicacion publicacion);
         Task GuardarCambios();
-        Task<List<Publicaciones>> TraerTodasLasPublicaciones();
+        Task<List<Publicacion>> TraerTodasLasPublicaciones();
     }
 }

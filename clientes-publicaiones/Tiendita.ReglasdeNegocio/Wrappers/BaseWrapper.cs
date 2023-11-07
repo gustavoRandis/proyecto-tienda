@@ -1,8 +1,8 @@
-﻿namespace VideoClub.BusinessRules.Wrappers
+﻿namespace Tiendita.ReglasdeNegocio.Wrappers
 {
     public class BaseWrappers
     {
-        public int ErrorNumber { get; set; }
-        public string? Message { get; set; }
+        public int NumeroError { get; set; }
+        public string? MensajeError { get; set; }
     }
 }
