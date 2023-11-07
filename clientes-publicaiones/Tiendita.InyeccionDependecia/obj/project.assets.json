@@ -7026,11 +7026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
       "projectName": "Tiendita.InyeccionDependecia",
-      "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
+      "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7047,17 +7047,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj"
             },
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj"
             },
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj"
             },
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj"
             }
           }
         }

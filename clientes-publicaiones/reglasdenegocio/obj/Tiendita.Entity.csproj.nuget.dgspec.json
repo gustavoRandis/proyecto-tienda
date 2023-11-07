@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {}
+    "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
+    "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
         "projectName": "Tiendita.Entity",
-        "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj",
         "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\reglasdenegocio\\obj\\",
+        "outputPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rSpLzcLJjtqKbhCqQMixFJtwYcP5dBopeWep4R6XHyC7YaGT4Y8pBB3inkbEejRO8gwHkjg24+LeDv+BY11IQ==",
+  "dgSpecHash": "zP/ByO+JsE6xplNi503bg5eD9i6SOFcitnj6bp4cde5jdyMcPSEhWz8hvru6nXGjcTaf6agkqTy2hJjKDQjbWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Familia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

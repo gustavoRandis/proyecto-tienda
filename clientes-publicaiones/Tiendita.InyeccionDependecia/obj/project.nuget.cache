@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XOnJ9HZEGTfsbAcCip0fIWiVJRadxHdzBnJvFKlh8BCuw/xvMflV5CW2m02pGBF36iUdwMmc4OVVJ2ZLhWPyjw==",
+  "dgSpecHash": "7IcfeKDszKRzXCUK8+LiClO99eWKX1SHlIXCPzpXX65Eu00PyvC37WDBvbnpb5DJM/JJQebIX2M7emiqVZF1OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.InyeccionDependecia\\Tiendita.InyeccionDependecia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Familia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -6964,11 +6964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj",
       "projectName": "Tiendita.Presenters",
-      "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj",
+      "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Presenters\\Tiendita.Presenters.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Presenters\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Presenters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6985,11 +6985,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
             },
-            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj"
+            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Repository\\Tiendita.Repository.csproj"
             }
           }
         }
