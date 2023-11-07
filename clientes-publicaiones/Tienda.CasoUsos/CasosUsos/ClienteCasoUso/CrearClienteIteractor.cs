@@ -1,5 +1,4 @@
 ﻿using reglasdenegocio.Entidades;
-using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 using Tienda.CasoUsos.Especificaciones.Cliente;
 using Tiendita.Entity.Interfaces.Repositorios;
 using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
@@ -7,6 +6,7 @@ using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
 using Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.InputPorts;
 using Tiendita.ReglasdeNegocio.Interfaces.Presenters.ClientePresenters;
 using Tiendita.ReglasdeNegocio.PersonalException;
+using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 
 
 
@@ -34,12 +34,16 @@ namespace Tienda.CasoUsos.CasosUsos.ClienteCasoUso
                 await _presenter.Handle(ClienteRespuesta);
                 return;
             }
-           
+
 
 
             Cliente newCliente = new()
             {
-                Nombre = crearClienteDTO.Nombre
+                Nombre = crearClienteDTO.Nombre,
+                Apellido = crearClienteDTO.Apellido,
+                Correo = crearClienteDTO.Correo,
+                NumDocumento = crearClienteDTO.NumDocumento,
+                Contrasena = crearClienteDTO.Contrasena
             };
 
             try
@@ -59,12 +63,12 @@ namespace Tienda.CasoUsos.CasosUsos.ClienteCasoUso
             }
 
         }
-            private List<ValidacionErroresDTO> ValidarCliente(CrearClienteDTO crearClienteDTO)
-            {
-                var specification = new CrearClienteEspecificaciones(crearClienteDTO);
-                return specification.Validar();
-            }
-            
+        private List<ValidacionErroresDTO> ValidarCliente(CrearClienteDTO crearClienteDTO)
+        {
+            var specification = new CrearClienteEspecificaciones(crearClienteDTO);
+            return specification.Validar();
+        }
+
     }
 }
 
@@ -72,4 +76,3 @@ namespace Tienda.CasoUsos.CasosUsos.ClienteCasoUso
 
 
 
-  
