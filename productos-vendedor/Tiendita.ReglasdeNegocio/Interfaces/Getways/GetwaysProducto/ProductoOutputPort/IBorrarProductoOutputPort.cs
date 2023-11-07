@@ -7,7 +7,7 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoOutputPort
 {
-    public interface IBorrarProducto
+    public interface IBorrarProductoOutputPort
     {
         Task handle(WrapperBorrarProducto producto);
     }
