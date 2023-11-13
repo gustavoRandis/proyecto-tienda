@@ -1,8 +1,9 @@
-﻿using Tiendita.Entity.Enums;
+﻿using Tiendita.Entity.Common;
+using Tiendita.Entity.Enums;
 
 namespace reglasdenegocio.Entidades
 {
-    public class Pedido : Usuariocommon
+    public class Pedido : Entitycommon
     {
 
         //ESTA CLASE HACE REFERENCIA A LOS PEDIDOS DE LOS CLIENTES Y ALMACENARA LOS DISTINTOS DATOS DE ENIVIO ADEMAS DEL ID 

@@ -9,6 +9,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.EspecificaciondeValidacion
 {
     public interface IEspecificacion<T> where T :class
     {
-        List<ValidacionErroresDTO> isvalida();
+        List<ValidacionErroresDTO> IsValid();
     }
 }

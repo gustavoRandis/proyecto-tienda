@@ -10,6 +10,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProduct
 {
     public interface ICrearProducto
     {
-        Task<WrapperBorrarProducto> BorrarProducto(ProductoDTO request);
+        Task<WrapperCrearProducto> CrearProducto(CrearProductoDTO request);
     }
 }

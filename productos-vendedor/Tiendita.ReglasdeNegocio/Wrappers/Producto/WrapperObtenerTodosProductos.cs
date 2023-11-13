@@ -6,7 +6,7 @@ namespace Tiendita.ReglasdeNegocio.Wrappers.Producto
 
     public class WrapperObtenerTodosProductos : BaseWrapper
     {
-        public List<ProductoDTO>? Producto { get; set; } = new List<ProductoDTO>();
+        public List<ProductoResponseDTO>? Producto { get; set; } = new List<ProductoResponseDTO>();
 
     }
 }

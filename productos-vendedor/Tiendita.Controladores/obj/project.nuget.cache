@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sGPln/cntPBdEC26NNgnvnGAsRAhdSUBJsiQYK76pw/KC381kNxPBkiOmCYiQYTOWVvmlH/8FkasB4qtAq1MQ==",
+  "success": true,
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Randis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -12,6 +12,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoIn
         /// nuevo registro en el contexto.
         /// </summary>
         /// <param name="creatActorRequest">Contiene los detalles del nuevo actor a crear.</param>
-        Task Handle(ProductoDTO Crearproducto);
+        Task Handle(CrearProductoDTO Crearproducto);
     }
 }

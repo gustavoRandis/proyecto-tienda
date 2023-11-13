@@ -9,5 +9,8 @@ using Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoInputP
 
 namespace CasosDeUso.CasosUso.CasosUsoProducto
 {
+    public class BorrarProductoIteractor
+    {
 
+    }
 }
