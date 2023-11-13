@@ -1,10 +1,15 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using MySql.Data.MySqlClient;
+using reglasdenegocio.Entidades;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 using Tiendita.Entity.Interfaces.Repositorios;
+using Tiendita.ReglasdeNegocio.ExcepcionesPersonales;
+using Tiendita.Repositorio.Contexto;
 
 namespace Tiendita.Repositorio.Repositorio
 {
@@ -12,12 +17,12 @@ namespace Tiendita.Repositorio.Repositorio
     {
         readonly TienditaContext _context;
 
-        public ProductoRepositorio(Tienditacontext context)
+        public ProductoRepositorio(TienditaContext context)
         {
             _context = context;
         }
 
-        public async Task Create(producto producto)
+        public async Task Create(Producto producto)
         {
             try
             {
@@ -33,7 +38,7 @@ namespace Tiendita.Repositorio.Repositorio
         {
             try
             {
-                var result = await _context.Productos.FirstOrDefaultAsync(a => a.Id == productoId && a.IsDeleted == false);
+                var result = await _context.productos.FirstOrDefaultAsync(a => a.Id == productoId && a.IsDeleted == false);
                 if (result != null)
                 {
                     result.IsDeleted = true;
@@ -49,12 +54,12 @@ namespace Tiendita.Repositorio.Repositorio
             }
         }
 
-        public async Task<List<ProductoRepositorio>> GetAllProducts()
+        public async Task<List<Producto>> obtenerTodoslosProductos()
         {
             try
             {
-                List<Produto> result = new List<producto>();
-                result = await _context.Actors.Where(a => a.IsDeleted == false).ToListAsync();
+                List<Producto> result = new List<Producto>();
+                result = await _context.productos.Where(a => a.IsDeleted == false).ToListAsync();
                 return result;
             }
             catch (MySqlException ex)
@@ -64,12 +69,12 @@ namespace Tiendita.Repositorio.Repositorio
             }
         }
 
-        public async Task<producto> GetById(int actorId)
+        public async Task<Producto> obtenerporId(int id)
         {
             try
             {
                 Producto result = new Producto();
-                result = await _context.Actors.FirstOrDefaultAsync(a => a.Id == productoId && a.IsDeleted == false);
+                result = await _context.productos.FirstOrDefaultAsync(a => a.Id == id && a.IsDeleted == false);
                 return result;
 
             }
@@ -80,12 +85,12 @@ namespace Tiendita.Repositorio.Repositorio
             }
         }
 
-        public async Task SaveChange()
+        public async Task GuardarCambios()
         {
             await _context.SaveChangesAsync();
         }
 
-        public Task Update(producto producto)
+        public Task Update(Producto producto)
         {
             throw new NotImplementedException();
         }

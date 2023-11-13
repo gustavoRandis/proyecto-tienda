@@ -1,4 +1,6 @@
-﻿using Presentador.PresentadorProducto;
+﻿using Microsoft.Extensions.DependencyInjection;
+using Presentador.PresentadorProducto;
+using Tiendita.ReglasdeNegocio.Presenters.ProductosPresentador;
 
 namespace Presentador
 {
@@ -8,7 +10,7 @@ namespace Presentador
         {
 
             services.AddScoped<ICrearProductoPresentador, CrearProductoPresentador>();
-
+            return services;
         }
     }
 }

@@ -58,6 +58,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositorio", "Repositorio"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tiendita.Repositorio", "Tiendita.Repositorio\Tiendita.Repositorio.csproj", "{6AAB0DCE-D8B7-4C8A-9643-016DFCAE305D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tiendita.WebApi", "Tiendita.WebApi\Tiendita.WebApi.csproj", "{182B6786-27B1-40C9-81EA-DDDB7E4BA81C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{6AAB0DCE-D8B7-4C8A-9643-016DFCAE305D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AAB0DCE-D8B7-4C8A-9643-016DFCAE305D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AAB0DCE-D8B7-4C8A-9643-016DFCAE305D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182B6786-27B1-40C9-81EA-DDDB7E4BA81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182B6786-27B1-40C9-81EA-DDDB7E4BA81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182B6786-27B1-40C9-81EA-DDDB7E4BA81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182B6786-27B1-40C9-81EA-DDDB7E4BA81C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -117,6 +123,7 @@ Global
 		{C12E99E8-8E3B-4EA5-ADEB-50F9D29ED5EF} = {0C24F38D-53BF-4CED-8B77-497D8447B34B}
 		{DBF3B02E-0F90-4D29-8620-FF6E041166F8} = {67E89942-ADDB-4F23-BE0B-692417EEB492}
 		{6AAB0DCE-D8B7-4C8A-9643-016DFCAE305D} = {DBF3B02E-0F90-4D29-8620-FF6E041166F8}
+		{182B6786-27B1-40C9-81EA-DDDB7E4BA81C} = {5EB62B2B-7DAB-471C-B0AD-35EF73DE911A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A369D8C-B3C5-413A-818E-1A135C17353A}
