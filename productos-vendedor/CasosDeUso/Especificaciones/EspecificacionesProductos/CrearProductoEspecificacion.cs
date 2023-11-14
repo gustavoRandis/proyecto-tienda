@@ -9,6 +9,9 @@ using Tiendita.ReglasdeNegocio.Interfaces.EspecificaciondeValidacion;
 
 namespace CasosDeUso.Especificaciones.EspecificacionesProductos
 {
+    /*, esta especificación se centra en la validación de un objeto CrearProductoDTO, asegurando que el campo nombre cumpla con
+     * ciertos criterios (no nulo, no vacío y longitud máxima de 45 caracteres).
+     */
     public class CrearProductoEspecificacion : IEspecificacion<CrearProductoDTO>
     {
         readonly CrearProductoDTO _entity;
@@ -24,7 +27,7 @@ namespace CasosDeUso.Especificaciones.EspecificacionesProductos
             {
                 _errors.Add(new ValidacionErroresDTO
                 {
-                    NombrePropiedad = "Nomre Producto",
+                    NombrePropiedad = "Nombre Producto",
                     MensajeError = "El campo no puede ser nulo ni vacío."
 
                 });
@@ -33,7 +36,7 @@ namespace CasosDeUso.Especificaciones.EspecificacionesProductos
             {
                 _errors.Add(new ValidacionErroresDTO
                 {
-                    NombrePropiedad = "Nomre Producto",
+                    NombrePropiedad = "Nombre Producto",
                     MensajeError = "El campo no puede contener más de 45 caracteres."
 
                 });

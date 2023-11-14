@@ -3,7 +3,7 @@
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoInputPort
 {
     /// <summary>
-    /// Este Input Port se encarga de manejar la creación de un nuevo actor en el sistema. 
+    /// Este Input Port se encarga de manejar la creación de un nuevo producto en el sistema. 
     /// </summary>
     public interface ICrearProductoInputPort
     {
@@ -11,7 +11,7 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoIn
         /// El método Handle recibiría un objeto CreateActorRequest con el que se creara un
         /// nuevo registro en el contexto.
         /// </summary>
-        /// <param name="creatActorRequest">Contiene los detalles del nuevo actor a crear.</param>
+        /// <param name="Crearproducto">Contiene los detalles del nuevo producto a crear.</param>
         Task Handle(CrearProductoDTO Crearproducto);
     }
 }

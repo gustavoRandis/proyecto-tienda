@@ -8,6 +8,7 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Presentador.PresentadorProducto
 {
+    //Este código implementa la clase CrearProductoPresentador, que actúa como un presentador para el caso de uso de creación de productos
     public class CrearProductoPresentador : ICrearProductoPresentador
     {
         public WrapperCrearProducto producto { get; private set; } = new WrapperCrearProducto();

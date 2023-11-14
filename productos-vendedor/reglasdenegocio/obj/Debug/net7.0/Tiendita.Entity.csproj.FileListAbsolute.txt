@@ -3,3 +3,7 @@ C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net
 C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfoInputs.cache
 C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfo.cs
 C:\Users\Martin\source\repos\MartinTorr3s\tiendita\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.csproj.CoreCompileInputs.cache

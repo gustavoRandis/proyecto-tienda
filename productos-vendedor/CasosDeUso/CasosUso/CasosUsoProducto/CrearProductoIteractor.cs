@@ -37,7 +37,7 @@ namespace CasosDeUso.CasosUso.CasosUsoProducto
         }
 
         /// <summary>
-        /// Maneja la creación de un nuevo actorResponse.
+        /// Maneja la creación de un nuevo productoResponse.
         /// </summary>
         /// <param name="createActorRequest">Los datos para crear el actorResponse.</param>
         /// <returns>El ID del nuevo actorResponse creado o 0 si hubo errores.</returns>

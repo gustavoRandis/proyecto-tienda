@@ -13,6 +13,7 @@ using Tiendita.Repositorio.Contexto;
 
 namespace Tiendita.Repositorio.Repositorio
 {
+    //Este repositorio se utiliza para interactuar con la base de datos en operaciones CRUD relacionadas con los productos de la tienda. 
     public class ProductoRepositorio : IProductosRepository
     {
         readonly TienditaContext _context;

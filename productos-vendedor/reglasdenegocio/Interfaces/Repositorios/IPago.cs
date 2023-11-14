@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tiendita.Entity.Interfaces.Repositorios
 {
+    //define métodos para interactuar con pagos, permitiendo obtener pagos por ID y listar todos los pagos.
     public interface IPago:IUnitOfWork<Pago>
     {
         Task<Pago> obtenerporId(int Id);

@@ -3,6 +3,7 @@ using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
 
 namespace Tiendita.ReglasdeNegocio.Wrappers.Producto
 {
+    //es un contenedor que encapsula la información relacionada con la creación de productos
     public class WrapperCrearProducto : BaseWrapper
     {
 

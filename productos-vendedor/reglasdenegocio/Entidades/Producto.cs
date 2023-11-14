@@ -5,6 +5,7 @@ namespace reglasdenegocio.Entidades
 {
     public class Producto: Entitycommon
     {
+        //CONTIENE LAS  PROPIEDADES QUE TENDRAN LOS PRODUCTOS
         public string Nombre { get; set; }
         public string descripcion { get; set; }
         public short Cant_producto { get; set; }

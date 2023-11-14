@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Tiendita.ReglasdeNegocio.ExcepcionesPersonales
 {
+    //Esta clase ayuda a personalizar y manejar excepciones específicas de MySQL de una manera más comprensible y adecuada
+    //para el contexto de la tienda. Por ejemplo, asigna códigos HTTP más familiares y mensajes personalizados a ciertos
+    //códigos de error MySQL.
     public class DBMySqlException : Exception
     {
 

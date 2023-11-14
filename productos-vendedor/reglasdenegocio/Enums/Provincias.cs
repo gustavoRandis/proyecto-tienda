@@ -1,5 +1,6 @@
 ﻿namespace Tiendita.Entity.Enums
 {
+    //ESTE ENUMERADO REPRESENTA LAS PROVINCIAS
     public enum Provincias
     {
         BuenosAires,

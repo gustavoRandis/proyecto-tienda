@@ -9,6 +9,8 @@ using Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProductos;
 
 namespace Tiendita.Controladores
 {
+    // este código configura el contenedor de dependencias para incluir la implementación CrearProductoControlador
+    // cuando se solicita la interfaz ICrearProducto. 
     public static class ContenedorDependenci
     {
         public static IServiceCollection AddServicesControllers(this IServiceCollection services)

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tiendita.ReglasdeNegocio.DTOs.productosDTO
 {
+    //Este DTO encapsula la información necesaria para crear un producto en el sistema. 
     public class CrearProductoDTO
     {
         public string nombre { get; set; }

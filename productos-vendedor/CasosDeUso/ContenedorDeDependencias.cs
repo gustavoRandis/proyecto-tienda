@@ -11,6 +11,8 @@ namespace CasosDeUso
 {
     public static class ContenedorDeDependencias
     {
+        //este código configura el contenedor de dependencias para incluir la implementación CrearProductoIteractor cuando se solicita
+        //la interfaz ICrearProductoInputPort.
         public static IServiceCollection AddServicesUseCases(this IServiceCollection services)
         {
             services.AddScoped<ICrearProductoInputPort, CrearProductoIteractor>();

@@ -9,6 +9,7 @@ using Tiendita.Entity.Common;
 
 namespace Tiendita.Entity.Entidades
 {
+    //REPRESENTA INFORMACION RELACIONADA CON STOCK, DE ESTA CLASE SE PODRAN CREAR INSTANCIAS.
     public class Stock:Entitycommon
     {
         public int id {  get; set; }

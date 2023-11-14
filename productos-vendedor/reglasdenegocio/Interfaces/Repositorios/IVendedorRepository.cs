@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace Tiendita.Entity.Interfaces.Repositorios
 {
+
+    //Esta interfaz IVendedorRepository define métodos para interactuar con vendedores
     public interface IVendedorRepository : IUnitOfWork<Vendedor>
     {
         Task<Vendedor> obtenerporId(int Id);
