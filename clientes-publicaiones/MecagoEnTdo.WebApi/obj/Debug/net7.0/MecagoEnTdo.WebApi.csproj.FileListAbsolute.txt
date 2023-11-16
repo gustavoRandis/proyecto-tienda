@@ -1,7 +1,0 @@
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.csproj.AssemblyReference.cache
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.AssemblyInfoInputs.cache
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.AssemblyInfo.cs
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Martin\Desktop\aaa\proyecto-tienda-clientes-publicaciones\clientes-publicaiones\MecagoEnTdo.WebApi\obj\Debug\net7.0\MecagoEnTdo.WebApi.MvcApplicationPartsAssemblyInfo.cache
