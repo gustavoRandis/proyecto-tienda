@@ -1,0 +1,15 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll

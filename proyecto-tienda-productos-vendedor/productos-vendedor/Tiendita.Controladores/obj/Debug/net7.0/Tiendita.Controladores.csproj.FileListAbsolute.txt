@@ -1,0 +1,15 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\bin\Debug\net7.0\Tiendita.Controladores.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\bin\Debug\net7.0\Tiendita.Controladores.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\bin\Debug\net7.0\Tiendita.Controladores.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\refint\Tiendita.Controladores.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\Tiendita.Controladores.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Controladores\obj\Debug\net7.0\ref\Tiendita.Controladores.dll

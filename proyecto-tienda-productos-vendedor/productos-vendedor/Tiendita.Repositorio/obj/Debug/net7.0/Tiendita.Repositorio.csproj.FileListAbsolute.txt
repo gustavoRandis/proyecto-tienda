@@ -1,0 +1,17 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\refint\Tiendita.Repositorio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\ref\Tiendita.Repositorio.dll

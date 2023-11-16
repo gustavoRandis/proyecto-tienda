@@ -1,0 +1,17 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\CasosDeUso.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\CasosDeUso.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\CasosDeUso.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\refint\CasosDeUso.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\CasosDeUso.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\CasosDeUso\obj\Debug\net7.0\ref\CasosDeUso.dll
