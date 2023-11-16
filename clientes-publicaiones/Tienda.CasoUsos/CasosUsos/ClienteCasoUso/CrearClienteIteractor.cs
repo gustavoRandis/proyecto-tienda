@@ -15,9 +15,9 @@ namespace Tienda.CasoUsos.CasosUsos.ClienteCasoUso
 {
     internal class CrearClienteIteractor : ICrearClienteInputPort
     {
-        readonly ClienteRepository _repository;
+        readonly IClienteRepository _repository;
         readonly ICrearClientePresenter _presenter;
-        public CrearClienteIteractor(ClienteRepository repository, ICrearClientePresenter presenter)
+        public CrearClienteIteractor(IClienteRepository repository, ICrearClientePresenter presenter)
         {
             _repository = repository;
             _presenter = presenter;

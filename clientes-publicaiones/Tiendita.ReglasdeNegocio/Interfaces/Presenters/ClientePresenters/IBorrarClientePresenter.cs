@@ -3,9 +3,9 @@ using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.ClientePresenters
 {
-    
+
     public interface IBorrarClientePresenter : IBorrarClienteOutputPort
     {
-        CrearBorrarClienteWRP Cliente { get; }
+        BorrarClienteWRP Cliente { get; }
     }
 }

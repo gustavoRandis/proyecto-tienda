@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
+﻿using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
 using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
 using Tiendita.ReglasdeNegocio.Interfaces.ValidationSpecification;
 
@@ -26,7 +21,7 @@ namespace Tienda.CasoUsos.Especificaciones.Publicacion
                 _errors.Add(new ValidacionErroresDTO()
                 {
                     NombrePropiedad = "Id",
-                    MensajeError = "Problemas a la hora de encontrar Publicacion" 
+                    MensajeError = "Problemas a la hora de encontrar Publicacion"
                 });
             }
 

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
+﻿using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
 
 namespace Tiendita.ReglasdeNegocio.Wrappers.Imagen
 {

@@ -31,9 +31,6 @@
       "Tiendita.ReglasdeNegocio/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Tiendita.Entity": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/Tiendita.ReglasdeNegocio.dll": {}
         },
@@ -97,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
       "projectName": "Tienda.CasoUsos",
-      "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
+      "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tienda.CasoUsos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -118,11 +115,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj"
+            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj"
             },
-            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
+            "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+              "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
             }
           }
         }

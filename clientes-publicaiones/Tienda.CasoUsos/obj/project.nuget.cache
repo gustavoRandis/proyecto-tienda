@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pNuXTinl69gwBbn2Qay4gpioFQJbxS6ZunKCSbpbGtKXj4CmgeYTVY/GpJTfshfeNnzd4TRBF38RsBXsZm2zNA==",
+  "dgSpecHash": "avVvpXauBF/vKF+7J6Tcxnnr+Q1nes/czlnUDolF6zw9AvCwz7Uk15mEB78TK188M3J4M/KLnVYbRD42Z662Uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tienda.CasoUsos\\Tienda.CasoUsos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

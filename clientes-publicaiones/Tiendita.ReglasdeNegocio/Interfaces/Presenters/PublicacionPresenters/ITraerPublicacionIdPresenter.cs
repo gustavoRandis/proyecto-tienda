@@ -4,11 +4,11 @@ using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.PublicacionPresenters
 {
-   
+
     public interface ITraerPublicacionIdPresenter : ITraerPublicacionIdOutputPort
     {
-        
-        TraerPublicacionWRP Publicacion { get; }
+
+        TraerTodasPublicacionesWRP Publicacion { get; }
     }
 
 }

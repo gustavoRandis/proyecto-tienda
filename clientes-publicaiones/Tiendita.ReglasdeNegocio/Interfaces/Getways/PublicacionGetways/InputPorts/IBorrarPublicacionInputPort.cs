@@ -1,4 +1,4 @@
-﻿namespace VideoClub.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts
+﻿namespace Tiendita.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts
 {
     /// <summary>
     /// Este Input Port se encarga de manejar la eliminación de una publicacion.

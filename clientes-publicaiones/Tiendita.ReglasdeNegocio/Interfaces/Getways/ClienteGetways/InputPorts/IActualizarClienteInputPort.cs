@@ -1,5 +1,4 @@
 ﻿using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
-using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.InputPorts
 {

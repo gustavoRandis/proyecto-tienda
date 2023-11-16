@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
+﻿using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
 using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
-using VideoClub.BusinessRules.Interfaces.ValidationSpecification;
+using Tiendita.ReglasdeNegocio.Interfaces.ValidationSpecification;
 
 namespace Tienda.CasoUsos.Especificaciones.Cliente
 {
@@ -25,7 +20,7 @@ namespace Tienda.CasoUsos.Especificaciones.Cliente
                 _errors.Add(new ValidacionErroresDTO()
                 {
                     NombrePropiedad = "Id",
-                    MensajeError = "Problemas a la hora de encontrar Cliente" 
+                    MensajeError = "Problemas a la hora de encontrar Cliente"
                 });
             }
 

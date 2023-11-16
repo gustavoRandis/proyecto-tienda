@@ -1,6 +1,6 @@
 ﻿using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
 
-namespace VideoClub.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts
+namespace Tiendita.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts
 {
     /// <summary>
     /// Este Input Port se utiliza para manejar la actualización de la información de una publicacion

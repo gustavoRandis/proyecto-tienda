@@ -5,10 +5,10 @@ using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.PublicacionPresenters
 {
-   
-    public interface IBorrarPublicacionPresenter:IBorrarPublicacionOutputPort
-    { 
-        
-        BorrarPublicacionWRP Publicacion {get;}
+
+    public interface IBorrarPublicacionPresenter : IBorrarPublicacionOutputPort
+    {
+
+        BorrarPublicacionWRP Publicacion { get; }
     }
 }

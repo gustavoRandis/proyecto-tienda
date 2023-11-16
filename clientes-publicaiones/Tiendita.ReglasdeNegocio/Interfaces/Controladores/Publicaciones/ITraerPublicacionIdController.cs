@@ -5,6 +5,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.Publicaciones
 {
     public interface ITraerPublicacionIdController
     {
-        Task<TraerPublicacionWRP> TraerPublicacion(int IdPublicacion);
+        Task<TraerTodasPublicacionesWRP> TraerPublicacion(int IdPublicacion);
     }
 }

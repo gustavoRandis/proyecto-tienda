@@ -3,11 +3,11 @@
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.OuputPorts
 {
-    
+
     public interface IBorrarClienteOutputPort
     {
-       
-        Task Handle(BorrarClienteWRP Cliente);
+
+        Task Handle(BorrarClienteWRP cliente);
     }
 
 }

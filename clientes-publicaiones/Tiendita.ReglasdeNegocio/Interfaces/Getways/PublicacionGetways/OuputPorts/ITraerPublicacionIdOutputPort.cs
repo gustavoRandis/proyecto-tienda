@@ -15,7 +15,7 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.PublicacionGetways.OuputPo
         /// </summary>
         /// <param name="Publicacion">Id de la publicacion a buscar.</param>
         /// <returns>Detalles de la publicacion.</returns>
-        Task Handle(TraerPublicacionWRP Publicacion);
+        Task Handle(TraerTodasPublicacionesWRP Publicacion);
     }
 
 }

@@ -9,13 +9,13 @@
         {
 
             if (number == 1045) { Number = 401; MessageError = "Usuario o contraseña inválido."; }
-           
-            if (number == 1042) { Number = 503; MessageError = "El servidor no es accesible.";}
-          
+
+            if (number == 1042) { Number = 503; MessageError = "El servidor no es accesible."; }
+
             if (number == 1049) { Number = 404; MessageError = "La base de datos no existe."; }
 
             else { Number = number; MessageError = message; }
- 
+
         }
     }
 }

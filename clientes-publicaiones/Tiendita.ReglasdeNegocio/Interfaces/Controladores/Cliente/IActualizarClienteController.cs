@@ -1,5 +1,4 @@
 ﻿using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
-using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
 using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.Cliente
 {

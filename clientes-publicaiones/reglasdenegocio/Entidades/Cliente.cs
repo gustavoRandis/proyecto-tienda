@@ -10,6 +10,6 @@ namespace reglasdenegocio.Entidades
         public short? Num_calle { get; set; }
         public short? NumDepartamento { get; set; }
         public string? InformacionAdicional { get; set; }
-        public MetodoPago? MetodoPago { get; set; }
+        //public MetodoPago? MetodoPago { get; set; }
     }
 }

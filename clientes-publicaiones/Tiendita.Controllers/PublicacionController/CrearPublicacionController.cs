@@ -1,24 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
+﻿using Tiendita.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts;
 using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
-using Tiendita.ReglasdeNegocio.Interfaces.Controladores.Cliente;
 using Tiendita.ReglasdeNegocio.Interfaces.Controladores.Publicaciones;
-using Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.InputPorts;
-using Tiendita.ReglasdeNegocio.Interfaces.Presenters.ClientePresenters;
 using Tiendita.ReglasdeNegocio.Interfaces.Presenters.PublicacionPresenters;
-using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
-using VideoClub.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts;
 
 namespace Tiendita.Controllers.PublicacionController
 {
     internal class CrearPublicacionController : ICrearPublicacionController
     {
-         
+
         readonly ICrearPublicacionInputPort _inputPort;
         readonly ICrearPublicacionPresenter _presenter;
 
@@ -32,6 +22,6 @@ namespace Tiendita.Controllers.PublicacionController
             await _inputPort.Handle(request);
             return _presenter.Publicacion;
         }
-            
-        }
+
+    }
 }

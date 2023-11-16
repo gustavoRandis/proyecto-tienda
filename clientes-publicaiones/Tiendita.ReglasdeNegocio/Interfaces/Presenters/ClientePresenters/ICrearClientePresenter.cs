@@ -1,12 +1,11 @@
-﻿using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
-using Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.OuputPorts;
+﻿using Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.OuputPorts;
 using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.ClientePresenters
 {
-    
+
     public interface ICrearClientePresenter : ICrearClienteOutputPort
     {
-        CrearBorrarClienteWRP Cliente {get; }
+        CrearBorrarClienteWRP Cliente { get; }
     }
 }

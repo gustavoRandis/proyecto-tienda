@@ -7,7 +7,7 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.PublicacionPresenters
 {
     public interface ITraerTodasPublicacionesPresenter : ITraerTodasPublicacionesOutputPort
     {
-        
+
         TraerTodasPublicacionesWRP Publicaciones { get; }
     }
 

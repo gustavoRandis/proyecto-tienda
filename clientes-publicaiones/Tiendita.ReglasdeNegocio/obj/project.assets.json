@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Tiendita.Entity/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Tiendita.Entity.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Tiendita.Entity.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Tiendita.Entity/1.0.0": {
-      "type": "project",
-      "path": "../reglasdenegocio/Tiendita.Entity.csproj",
-      "msbuildProject": "../reglasdenegocio/Tiendita.Entity.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Tiendita.Entity >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\Familia\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
       "projectName": "Tiendita.ReglasdeNegocio",
-      "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+      "projectPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
       "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\obj\\",
+      "outputPath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.ReglasdeNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj": {
-              "projectPath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\reglasdenegocio\\Tiendita.Entity.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

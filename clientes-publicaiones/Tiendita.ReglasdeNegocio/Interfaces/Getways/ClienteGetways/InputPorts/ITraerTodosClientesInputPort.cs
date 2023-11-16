@@ -9,7 +9,7 @@
         ///  El método Handle ejecuta una query en el contexto para obtener el contenido de
         ///  la tabla publicaciones.
         /// </summary>
-       
+
         ValueTask Handle();
     }
 

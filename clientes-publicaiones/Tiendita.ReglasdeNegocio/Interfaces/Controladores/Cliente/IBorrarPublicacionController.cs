@@ -6,6 +6,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.Cliente
 {
     public interface IBorrarClienteController
     {
-        Task<CrearBorrarClienteWRP> BorrarCliente(int IdCliente);
+        Task<BorrarClienteWRP> BorrarCliente(int IdCliente);
     }
 }

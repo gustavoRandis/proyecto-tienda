@@ -1,9 +1,8 @@
-﻿using Tiendita.ReglasdeNegocio.DTOs.ClienteDTOs;
-using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
-using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
+﻿using Tiendita.ReglasdeNegocio.Wrappers.Cliente;
 
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.OuputPorts
+{
     /// <summary>
     /// Este Input Port se encarga de manejar la creación de una nueva publicacion en el sistema. 
     /// </summary>

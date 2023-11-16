@@ -1,5 +1,5 @@
 ﻿using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
-using VideoClub.BusinessRules.DTOs.ValidationDTO;
+
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.ValidationSpecification
 {

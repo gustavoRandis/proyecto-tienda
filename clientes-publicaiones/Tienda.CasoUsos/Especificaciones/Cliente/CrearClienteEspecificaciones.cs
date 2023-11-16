@@ -4,7 +4,7 @@ using Tiendita.ReglasdeNegocio.Interfaces.ValidationSpecification;
 
 namespace Tienda.CasoUsos.Especificaciones.Cliente
 {
-    public class CrearClienteEspecificaciones :IEspecificacion<CrearClienteDTO>
+    public class CrearClienteEspecificaciones : IEspecificacion<CrearClienteDTO>
     {
         readonly CrearClienteDTO _entity;
         readonly List<ValidacionErroresDTO> _errors = new List<ValidacionErroresDTO>();
@@ -46,10 +46,9 @@ namespace Tienda.CasoUsos.Especificaciones.Cliente
                     break;
                 }
             }
-       
+
             return _errors;
         }
     }
 }
 
-   

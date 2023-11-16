@@ -1,12 +1,13 @@
 ﻿using reglasdenegocio.Entidades;
 using Tienda.CasoUsos.Especificaciones.Publicacion;
+using Tiendita.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts;
 using Tiendita.Entity.Interfaces.Repositorios;
 using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
 using Tiendita.ReglasdeNegocio.DTOs.validadorDTO;
+using Tiendita.ReglasdeNegocio.Interfaces.Getways.ClienteGetways.InputPorts;
 using Tiendita.ReglasdeNegocio.Interfaces.Presenters.PublicacionPresenters;
 using Tiendita.ReglasdeNegocio.PersonalException;
 using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
-using VideoClub.BusinessRules.Interfaces.Getways.PublicacionGetways.InputPorts;
 
 namespace Tienda.CasoUsos.CasosUsos.PublicacionCasoUso
 {
@@ -36,10 +37,8 @@ namespace Tienda.CasoUsos.CasosUsos.PublicacionCasoUso
 
             Publicacion newPublicacion = new()
             {
-                NombrePublicacion = crearPublicacionDTO.NombrePublicacion,
-                CantProductos = crearPublicacionDTO.CantProductos
+                NombrePublicacion = crearPublicacionDTO.NombrePublicacion
             };
-
 
             try
             {

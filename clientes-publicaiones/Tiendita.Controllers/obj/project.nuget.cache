@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEBeL8rageCP25k1Qz5KTMvshwGc/J0fYbVpxwBNiua5SoXhTqyLNbDYjgAxMo+qOxHb2HQm5Gq1b9VUMZv1PQ==",
+  "dgSpecHash": "8TaDEZ7QvsDC7E5X7muddUYrSxG1sLhhUy1rJecMKHK9/Ixzw11cuHlg5byjp4i3Hu+LdWOWhEVhXYJ+NBfdgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Familia\\Desktop\\git\\proyecto-tienda\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj",
+  "projectFilePath": "C:\\Users\\Familia\\Desktop\\proyecto-tienda-clientes-publicaciones 1\\clientes-publicaiones\\Tiendita.Controllers\\Tiendita.Controllers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Familia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

@@ -6,7 +6,7 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Presenters.ClientePresenters
 {
     public interface ITraerClienteIdPresenter : ITraerClienteIdOutputPort
     {
-       
+  
         TraerClienteWRP Cliente { get; }
     }
 

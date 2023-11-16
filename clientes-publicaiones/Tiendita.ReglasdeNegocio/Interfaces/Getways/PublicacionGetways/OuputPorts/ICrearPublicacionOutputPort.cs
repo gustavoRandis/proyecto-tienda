@@ -1,5 +1,4 @@
-﻿using Tiendita.ReglasdeNegocio.DTOs.PublicacionDTOs;
-using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
+﻿using Tiendita.ReglasdeNegocio.Wrappers.Publicaciones;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.PublicacionGetways.OuputPorts
 {
