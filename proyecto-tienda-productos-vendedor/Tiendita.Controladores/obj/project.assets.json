@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj",
+      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj",
       "projectName": "Tiendita.Controladores",
-      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj",
+      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj",
       "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.Controladores\\obj\\",
+      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,8 +99,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
-              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
             }
           }
         }

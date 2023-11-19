@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w4PBMgpeHXgxvew/0gOWgSaFktJ5ejlO7HUc3t8A0gcziWOJbd6X1MJ2L7EQyOyi7EVaCmg2RH8IV/Uw31feuA==",
+  "dgSpecHash": "c2JBUqdDncVoWW2qnXXolX5dgryfslkmGJEbKFjo9F03KluAJPRSdgV7ZGGmO2kNQbe+UFMrF+YWKotMCdXkug==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

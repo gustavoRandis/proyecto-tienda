@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
       "projectName": "Tiendita.ReglasdeNegocio",
-      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
       "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.ReglasdeNegocio\\obj\\",
+      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",

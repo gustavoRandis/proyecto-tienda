@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q+vk8j+zFSdwBsgfoVhwUph9FXBdusgd6z82VL+jfoJmHDJmZraxCHR3YOkAxdL4CbE1GnXhoGzzasjtJ49Nhg==",
+  "dgSpecHash": "q1PUBtaZEHOkUUzt87UJAM0Sjz7JVlh2c9lXPdFYyYAq8j9/Nzp14xf1rZ++YDFzn6Wp/blERsxqyjs4YYSfBg==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5SKmi2ZoGQ4xFp573UW2sIHhBsg7cOGZS2vViVVbifFvjSYLgIQTRIj9s7bxthJof16cm9OBLMVZF1Uig5Ujtg==",
+  "dgSpecHash": "bMO2awligjKfmmg0lI9NLPZyGWNK7y3D/q8WVvSNRvMFH7PaJ62GS9WqARpw+j2iwv4om5qkRY5hUzaX/XKv+Q==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Presentador\\Presentador.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Presentador\\Presentador.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],

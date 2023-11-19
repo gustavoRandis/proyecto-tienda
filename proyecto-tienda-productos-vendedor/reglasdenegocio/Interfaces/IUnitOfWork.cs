@@ -11,8 +11,8 @@ namespace Tiendita.Entity.Interfaces
         Task GuardarCambios();
         Task Create(T entity);
         Task Update(T entity);
-        //Task Delete(int id);
-        //Task<T> ObtenerPorId(int id);  //me va a devolver una entidad
+        Task Delete(int id);
+
       
     }
 }

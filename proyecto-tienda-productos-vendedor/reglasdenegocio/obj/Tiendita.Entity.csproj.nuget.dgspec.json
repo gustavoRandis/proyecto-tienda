@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {}
+    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {
+    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj",
         "projectName": "Tiendita.Entity",
-        "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj",
+        "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj",
         "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\reglasdenegocio\\obj\\",
+        "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",

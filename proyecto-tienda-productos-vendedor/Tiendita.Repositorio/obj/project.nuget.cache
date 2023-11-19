@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3Q4d6oKi92AkYhiskPuw88R/gEPX/uxTnPClS+Ql3zg88btAOCCqOrSXzJWs+eifrGiRACiG40tze4DMvIm4g==",
+  "dgSpecHash": "4Y1dIrszLRAWR0q/eFav0ZGWc5dUWG2Lz4uxQ7Y9PED32o+zHKGw7rSKqYkoREZzYI57GsQIfTyvYxSAssU5GA==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
