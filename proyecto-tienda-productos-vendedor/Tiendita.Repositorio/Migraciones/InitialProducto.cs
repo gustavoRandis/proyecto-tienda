@@ -13,18 +13,25 @@ namespace Tiendita.Repositorio.Migraciones
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
-            migrationBuilder.AlterDatabase()
-                .Annotation("MySQL:Charset", "utf8mb4");
-
             migrationBuilder.CreateTable(
                 name: "producto",
                 columns: table => new
                 {
-                    Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("MySQL:ValueGenerationStrategy", MySQLValueGenerationStrategy.IdentityColumn),
-                    nombreactor = table.Column<string>(type: "varchar(45)", maxLength: 45, nullable: false)
+                    Id = table.Column<int>(type: "int", nullable: false),
+                    Nombre = table.Column<string>(type: "varchar(255)", nullable: true),
+                    Descripcion = table.Column<string>(type: "varchar(45)", nullable: true),
+                    Cant_producto = table.Column<string>(type: "varchar(45)", nullable: true),
+                    Identificador = table.Column<string>(type: "varchar(45)", nullable: true),
+                    FechaCreacion = table.Column<DateTime>(type: "date", nullable: true),
+                    FechaActualizacion = table.Column<DateTime>(type: "date", nullable: true),
 
-                });
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_producto", x => x.Id);
+                })
+                .Annotation("MySQL:Charset", "utf8mb4");
         }
-    }   
+
+    }
 }

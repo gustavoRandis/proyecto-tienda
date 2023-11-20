@@ -2,6 +2,7 @@
 {
     public class WrapperBorrarProducto : BaseWrapper
     {
-        public int IdVendedor { get; set; }
+        public int IdProducto { get; set; }
     }
 }
+

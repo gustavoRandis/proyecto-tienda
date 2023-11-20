@@ -10,6 +10,5 @@ namespace Tiendita.ReglasdeNegocio.DTOs.productosDTO
     {
         public int idProducto {  get; set; }
         public string nombre { get; set; }
-        public int precio { get; set; }
     }
 }

@@ -50,7 +50,7 @@ namespace CasosDeUso.CasosUso.CasosUsoProducto
 
             Producto newProducto = new()
             {
-                Nombre = crearProductoDTO.nombre
+                Nombre = crearProductoDTO.Nombre
             };
 
             try

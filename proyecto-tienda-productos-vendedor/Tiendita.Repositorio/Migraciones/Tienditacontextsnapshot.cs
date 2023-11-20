@@ -1,55 +1,54 @@
-﻿using Microsoft.EntityFrameworkCore.Infrastructure;
-using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using reglasdenegocio.Entidades;
 using Tiendita.Repositorio.Contexto;
 
 namespace Tiendita.Repositorio.Migraciones
 {
     [DbContext(typeof(TienditaContext))]
-    partial class VideoClubContextModelSnapshot : ModelSnapshot
+    partial class Tienditacontextsnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
         {
-#pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.12")
+                .HasAnnotation("ProductVersion", "8.0.34")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity("tiendita.Entity.Entidades.Producto", b =>
+            modelBuilder.Entity<Producto>(b =>
             {
+                b.ToTable("producto");
+
                 b.Property<int>("Id")
-                    .ValueGeneratedOnAdd()
                     .HasColumnType("int")
-                    .HasColumnName("idactor");
+                    .HasColumnName("Id")
+                    .IsRequired();
 
-                b.Property<int>("CreatedBy")
-                    .HasColumnType("int");
+                b.Property<string>("Nombre")
+                    .HasColumnType("varchar(255)")
+                    .HasColumnName("Nombre")
+                    .IsRequired();
 
-                b.Property<DateTime>("CreatedDate")
-                    .HasColumnType("datetime(6)");
+                b.Property<string>("Descripcion")
+                    .HasColumnType("varchar(45)")
+                    .HasColumnName("Descripcion");
 
-                b.Property<bool>("IsDeleted")
-                    .HasColumnType("tinyint(1)");
+                b.Property<string>("Cant_producto")
+                    .HasColumnType("varchar(45)")
+                    .HasColumnName("Cant_producto");
 
-                b.Property<string>("NombreActor")
-                    .IsRequired()
-                    .HasMaxLength(45)
-                    .HasColumnType("varchar")
-                    .HasColumnName("nombreactor");
+                b.Property<string>("Identificador")
+                    .HasColumnType("varchar(45)")
+                    .HasColumnName("Identificador");
 
-                b.Property<int>("UpdatedBy")
-                    .HasColumnType("int");
+                b.Property<DateTime>("FechaCreacion")
+                    .HasColumnType("date")
+                    .HasColumnName("FechaCreacion");
 
-                b.Property<DateTime>("UpdatedDate")
-                    .HasColumnType("datetime(6)");
+                b.Property<DateTime>("FechaActualizacion")
+                    .HasColumnType("date")
+                    .HasColumnName("FechaActualizacion");
 
                 b.HasKey("Id");
-
-                b.ToTable("actores", (string)null);
             });
         }
     }

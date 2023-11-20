@@ -7,9 +7,9 @@ namespace reglasdenegocio.Entidades
     {
         //CONTIENE LAS  PROPIEDADES QUE TENDRAN LOS PRODUCTOS
         public string Nombre { get; set; }
-        public string descripcion { get; set; }
-        public short Cant_producto { get; set; }
-        public string identificador { get; set; }
+        public string Descripcion { get; set; }
+        public int Cant_producto { get; set; }
+        public int Identificador { get; set; }
         /*preguntarle al marten si dentro de la interfaz producto, no debriamos tener la propiedad categoria.*/
     }
 }

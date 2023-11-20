@@ -23,7 +23,7 @@ namespace CasosDeUso.Especificaciones.EspecificacionesProductos
 
         public List<ValidacionErroresDTO> IsValid()
         {
-            if (string.IsNullOrEmpty(_entity.nombre))
+            if (string.IsNullOrEmpty(_entity.Nombre))
             {
                 _errors.Add(new ValidacionErroresDTO
                 {
@@ -32,7 +32,7 @@ namespace CasosDeUso.Especificaciones.EspecificacionesProductos
 
                 });
             }
-            else if (_entity.nombre.Length > 45)
+            else if (_entity.Nombre.Length > 45)
             {
                 _errors.Add(new ValidacionErroresDTO
                 {
