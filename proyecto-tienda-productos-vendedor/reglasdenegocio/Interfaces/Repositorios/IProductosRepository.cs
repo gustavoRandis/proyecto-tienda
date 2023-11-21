@@ -10,6 +10,9 @@ namespace Tiendita.Entity.Interfaces.Repositorios
     // Esta interfaz define métodos para interactuar con productos, incluyendo obtener por ID y todos los productos.
     public interface IProductosRepository : IUnitOfWork<Producto>
     {
+        Task Create(Producto producto);
+        Task Update(Producto producto);
+        Task Delete(int productoId);
         Task<Producto> obtenerporId(int Id);    
         Task<List<Producto>> obtenerTodoslosProductos();
     }

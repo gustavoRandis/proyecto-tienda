@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using reglasdenegocio.Entidades;
 using Tiendita.Repositorio.Contexto;
+using Tiendita.Repositorio.Contexto.VideoClub.Repository.Contexto;
 
 namespace Tiendita.Repositorio.Migraciones
 {

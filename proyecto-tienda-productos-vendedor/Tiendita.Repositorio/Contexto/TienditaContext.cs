@@ -1,21 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Numerics;
-using System.Reflection.Emit;
-using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using reglasdenegocio.Entidades;
-using Tiendita.Entity.Entidades;
-using Tiendita.Repositorio.EFCore.Configuracion;
+using System.Reflection;
 
 namespace Tiendita.Repositorio.Contexto
 {
     // Este código define un contexto de base de datos llamado VideoClubContext
     // que hereda de DbContext en Entity Framework Core.
- public class TienditaContext : DbContext
+    namespace VideoClub.Repository.Contexto
+    {
+        public class TienditaContext : DbContext
         {
             // El constructor recibe opciones de configuración de DbContext.
             public TienditaContext(DbContextOptions<TienditaContext> options) : base(options) { }
@@ -28,18 +21,21 @@ namespace Tiendita.Repositorio.Contexto
             //}
 
             // DbSet define propiedades para acceder a las tablas en la base de datos.
+            public DbSet<Producto> producto { get; set; } // Tabla de actores.
+            //public DbSet<Catalogo> Catalogo { get; set; } // Tabla de catálogo.
+            //public DbSet<Categoria> Categorias { get; set; } // Tabla de categorías.
+            //public DbSet<Genero> Generos { get; set; } // Tabla de géneros.
+            //public DbSet<GeneroTrailer> GenerosTrailer { get; set; } //Tabla GeneroTrailer.
+            //public DbSet<Reparto> Reparto { get; set; } //Tabla Reparto.
 
-            public DbSet<Producto> productos { get; set; } 
 
-
-        // Este método se llama al configurar el modelo de base de datos.
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+            // Este método se llama al configurar el modelo de base de datos.
+            protected override void OnModelCreating(ModelBuilder modelBuilder)
             {
                 // Aplica configuraciones de entidades desde el ensamblado actual.
                 modelBuilder.ApplyConfigurationsFromAssembly(
                     Assembly.GetExecutingAssembly());
-            modelBuilder.ApplyConfiguration(new ProductoConfiguracion());
             }
         }
     }
-
+}

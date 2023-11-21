@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 using Tiendita.Entity.Interfaces.Repositorios;
 using Tiendita.ReglasdeNegocio.ExcepcionesPersonales;
 using Tiendita.Repositorio.Contexto;
+using Tiendita.Repositorio.Contexto.VideoClub.Repository.Contexto;
 
 namespace Tiendita.Repositorio.Repositorio
 {
@@ -39,7 +40,7 @@ namespace Tiendita.Repositorio.Repositorio
         {
             try
             {
-                var result = await _context.productos.FirstOrDefaultAsync(a => a.Id == productoId && a.IsDeleted == false);
+                var result = await _context.producto.FirstOrDefaultAsync(a => a.Id == productoId && a.IsDeleted == false);
                 if (result != null)
                 {
                     result.IsDeleted = true;
@@ -60,7 +61,7 @@ namespace Tiendita.Repositorio.Repositorio
             try
             {
                 List<Producto> result = new List<Producto>();
-                result = await _context.productos.Where(a => a.IsDeleted == false).ToListAsync();
+                result = await _context.producto.Where(a => a.IsDeleted == false).ToListAsync();
                 return result;
             }
             catch (MySqlException ex)
@@ -75,7 +76,7 @@ namespace Tiendita.Repositorio.Repositorio
             try
             {
                 Producto result = new Producto();
-                result = await _context.productos.FirstOrDefaultAsync(a => a.Id == id && a.IsDeleted == false);
+                result = await _context.producto.FirstOrDefaultAsync(a => a.Id == id && a.IsDeleted == false);
                 return result;
 
             }

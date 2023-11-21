@@ -19,16 +19,35 @@ namespace Tiendita.Repositorio.EFCore.Configuracion
 
             builder.Property(a => a.Nombre)
                 .HasColumnName("Nombre") // Nombre de la columna en la base de datos MySQL.
-                .HasColumnType("varchar(255)") // Tipo de dato de la columna en MySql.
-                .HasMaxLength(255)
+                .HasColumnType("varchar(45)") // Tipo de dato de la columna en MySql.
+                .HasMaxLength(45)
                 .IsRequired();
 
             builder.Property(a => a.Descripcion)
                 .HasColumnName("Descripcion") // Nombre de la columna en la base de datos MySQL.
                 .HasColumnType("varchar(45)") // Tipo de dato de la columna en MySql.
-                .HasMaxLength(45);
+                .HasMaxLength(45)
+                .IsRequired();
 
-            // Continúa configurando otras propiedades según la estructura de tu tabla 'producto' en la base de datos.
+            builder.Property(a => a.Cant_producto)
+                .HasColumnName("Cant_producto") // Nombre de la columna en la base de datos MySQL.
+                .HasColumnType("int") // Tipo de dato de la columna en MySql.
+                .IsRequired();
+
+            builder.Property(a => a.Identificador)
+                .HasColumnName("Identificador") // Nombre de la columna en la base de datos MySQL.
+                .HasColumnType("int") // Tipo de dato de la columna en MySql.
+                .IsRequired();
+
+            builder.Property(a => a.FechaCreacion)
+                .HasColumnName("FechaCreacion") // Nombre de la columna en la base de datos MySQL.
+                .HasColumnType("date") // Tipo de dato de la columna en MySql.
+                .IsRequired();
+
+            builder.Property(a => a.FechaActualizacion)
+                .HasColumnName("FechaActualizacion") // Nombre de la columna en la base de datos MySQL.
+                .HasColumnType("date") // Tipo de dato de la columna en MySql.
+                .IsRequired();
         }
     }
 }

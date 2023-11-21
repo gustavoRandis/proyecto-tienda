@@ -9,11 +9,6 @@ namespace Tiendita.Entity.Interfaces
     public interface IUnitOfWork<T> where T : class
     {
         Task GuardarCambios();
-        Task Create(T entity);
-        Task Update(T entity);
-        Task Delete(int id);
-
-      
     }
 }
 /* 
