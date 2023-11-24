@@ -1,0 +1,366 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.exe
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.runtimeconfig.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Tiendita.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Tiendita.WebApi.props
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tiendita.WebApi.props
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tiendita.WebApi.props
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\scopedcss\bundle\Tiendita.WebApi.styles.css
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\refint\Tiendita.WebApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.genruntimeconfig.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\ref\Tiendita.WebApi.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.AssemblyReference.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\refint\Tiendita.WebApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.AssemblyReference.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\refint\Tiendita.WebApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.exe
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.runtimeconfig.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Google.Protobuf.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.Data.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\ZstdSharp.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Tiendita.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Tiendita.WebApi.props
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tiendita.WebApi.props
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tiendita.WebApi.props
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\scopedcss\bundle\Tiendita.WebApi.styles.css
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CopyComplete
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.genruntimeconfig.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\ref\Tiendita.WebApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.exe
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.deps.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.runtimeconfig.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfo.cs
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Tiendita.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Tiendita.WebApi.props
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tiendita.WebApi.props
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tiendita.WebApi.props
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\scopedcss\bundle\Tiendita.WebApi.styles.css
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CopyComplete
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\refint\Tiendita.WebApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.genruntimeconfig.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\ref\Tiendita.WebApi.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.Development.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\appsettings.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.exe
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.deps.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.runtimeconfig.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.WebApi.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Azure.Core.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Azure.Identity.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Google.Protobuf.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.Data.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Memory.Data.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\ZstdSharp.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\InversionDependencia.cs.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\CasosDeUso.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Presentador.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Controladores.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.AssemblyReference.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfoInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.AssemblyInfo.cs
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CoreCompileInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.Tiendita.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.build.Tiendita.WebApi.props
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tiendita.WebApi.props
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tiendita.WebApi.props
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.build.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\staticwebassets.development.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\scopedcss\bundle\Tiendita.WebApi.styles.css
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.csproj.CopyComplete
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\refint\Tiendita.WebApi.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\Tiendita.WebApi.genruntimeconfig.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.WebApi\obj\Debug\net7.0\ref\Tiendita.WebApi.dll

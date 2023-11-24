@@ -1,0 +1,83 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Entity.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Repositorio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.deps.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Presentador.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Entity.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Repositorio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.AssemblyReference.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.GeneratedMSBuildEditorConfig.editorconfig
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfoInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.AssemblyInfo.cs
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CoreCompileInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.csproj.CopyComplete
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\refint\Presentador.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\Presentador.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Presentador\obj\Debug\net7.0\ref\Presentador.dll

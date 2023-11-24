@@ -1,0 +1,54 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using reglasdenegocio.Entidades;
+using Tiendita.Repositorio.Contexto;
+using Tiendita.Repositorio.Contexto.VideoClub.Repository.Contexto;
+
+namespace Tiendita.Repositorio.Migraciones
+{
+    [DbContext(typeof(TienditaContext))]
+    partial class Tienditacontextsnapshot : ModelSnapshot
+    {
+        protected override void BuildModel(ModelBuilder modelBuilder)
+        {
+            modelBuilder
+                .HasAnnotation("ProductVersion", "8.0.34")
+                .HasAnnotation("Relational:MaxIdentifierLength", 64);
+
+            modelBuilder.Entity<Producto>(b =>
+            {
+                b.ToTable("producto");
+
+                b.Property<int>("Id")
+                    .HasColumnType("int")
+                    .HasColumnName("Id")
+                    .IsRequired();
+
+                b.Property<string>("Nombre")
+                    .HasColumnType("varchar(255)")
+                    .HasColumnName("Nombre")
+                    .IsRequired();
+
+                b.Property<string>("Descripcion")
+                    .HasColumnType("varchar(45)")
+                    .HasColumnName("Descripcion");
+
+                b.Property<int>("Cant_producto")
+                    .HasColumnName("Cant_producto");
+
+                b.Property<int>("Identificador")
+                    .HasColumnName("Identificador");
+
+                b.Property<DateTime>("FechaCreacion")
+                    .HasColumnType("date")
+                    .HasColumnName("FechaCreacion");
+
+                b.Property<DateTime>("FechaActualizacion")
+                    .HasColumnType("date")
+                    .HasColumnName("FechaActualizacion");
+
+                b.HasKey("Id");
+            });
+        }
+    }
+}

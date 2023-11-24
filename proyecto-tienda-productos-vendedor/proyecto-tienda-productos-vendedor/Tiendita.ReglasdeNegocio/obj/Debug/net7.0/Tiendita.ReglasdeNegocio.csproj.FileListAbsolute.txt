@@ -1,0 +1,56 @@
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Gustavo Randis\source\repos\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.AssemblyReference.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+C:\Users\Martin\Desktop\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.deps.json
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfoInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.AssemblyInfo.cs
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.csproj.CoreCompileInputs.cache
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\refint\Tiendita.ReglasdeNegocio.dll
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.ReglasdeNegocio\obj\Debug\net7.0\ref\Tiendita.ReglasdeNegocio.dll
