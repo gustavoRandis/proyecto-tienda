@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kt5wVI6yRU8R8mqn6JOaVrS5cpXFBAZBGkVS2e4TJStIrAp7kievifBnthYdRqvCBCyCjJRZ1oF6MkDVt0ej/w==",
+  "dgSpecHash": "qIiM6dM31W0iDsOZEuXIvDEvjrcTs6Cf09VLTP7rSRcQQ39nJMJ12uD+CRHYL+MR1DiRFX9XXQQW06TC8But3g==",
   "success": true,
-  "projectFilePath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

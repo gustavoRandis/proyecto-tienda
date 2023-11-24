@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kk9EiuI2XN833c8D59qcJgvlyhVgtSvg1xmbWJkP1fVvn/ivYCCzGG1ohv2osJ8JEWXXfo1XsMEMeSV/th/Oiw==",
+  "dgSpecHash": "nJwCnZX3/FiBq24IqvOAPm+HzCU5nkIg9IBM3OkvTpOgV2nMehtZhsSW8y0KYErQDwZyvhrniio+Zo/Y22M7+Q==",
   "success": true,
-  "projectFilePath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

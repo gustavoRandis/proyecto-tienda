@@ -3581,11 +3581,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
+      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
       "projectName": "InversionDependencia.cs",
-      "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
+      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj",
       "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-      "outputPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\obj\\",
+      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3602,17 +3602,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj"
             },
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Presentador\\Presentador.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Presentador\\Presentador.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Presentador\\Presentador.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Presentador\\Presentador.csproj"
             },
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Controladores\\Tiendita.Controladores.csproj"
             },
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj"
             }
           }
         }

@@ -9,6 +9,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoOu
 {
     public interface IBorrarProductoOutputPort
     {
-        Task handle(WrapperBorrarProducto producto);
+        Task Handle(WrapperBorrarProducto producto);
     }
 }

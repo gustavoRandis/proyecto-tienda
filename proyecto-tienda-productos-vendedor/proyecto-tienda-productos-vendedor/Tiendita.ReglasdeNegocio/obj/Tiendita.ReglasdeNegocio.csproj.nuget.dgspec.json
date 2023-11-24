@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {}
+    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {}
   },
   "projects": {
-    "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+    "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+        "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
         "projectName": "Tiendita.ReglasdeNegocio",
-        "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
+        "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj",
         "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-        "outputPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\obj\\",
+        "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",

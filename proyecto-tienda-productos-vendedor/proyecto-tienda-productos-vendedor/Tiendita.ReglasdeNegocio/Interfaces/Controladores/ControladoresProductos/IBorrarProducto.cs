@@ -1,15 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Tiendita.ReglasdeNegocio.DTOs.productosDTO;
-using Tiendita.ReglasdeNegocio.Wrappers.Producto;
+﻿using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProductos
 {
     public interface IBorrarProducto
     {
-        Task<WrapperBorrarProducto> BorrarProducto(ProductoResponseDTO request);
+        Task<WrapperBorrarProducto> BorrarProducto(int IdProducto);
     }
 }

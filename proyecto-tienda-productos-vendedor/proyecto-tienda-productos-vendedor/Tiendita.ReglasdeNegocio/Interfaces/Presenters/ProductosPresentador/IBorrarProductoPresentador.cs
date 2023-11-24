@@ -10,6 +10,6 @@ namespace Tiendita.ReglasdeNegocio.Presenters.ProductosPresentador
 {
     public interface IBorrarProductoPresentador:IBorrarProductoOutputPort
     {
-        WrapperBorrarProducto producto { get; }
+        WrapperBorrarProducto Producto { get; }
     }
 }

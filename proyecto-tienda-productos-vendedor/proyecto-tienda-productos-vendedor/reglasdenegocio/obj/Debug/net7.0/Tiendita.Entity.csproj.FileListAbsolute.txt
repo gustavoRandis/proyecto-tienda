@@ -63,3 +63,14 @@ D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\pro
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\refint\Tiendita.Entity.dll
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.pdb
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\ref\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\bin\Debug\net7.0\Tiendita.Entity.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\bin\Debug\net7.0\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\refint\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\Tiendita.Entity.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\reglasdenegocio\obj\Debug\net7.0\ref\Tiendita.Entity.dll

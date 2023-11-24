@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zAZucue505OjrjDw7alZKEGuMN4kfHegFP2tO+mgT3Tba7YQsOT7XBrGuyuhvFejHqmgVES8j4qP+mbUJlJ0uw==",
+  "dgSpecHash": "G56PwZmZXpXdBO/EZt3NpuOqJySvSwBZScxh7PmtVh20+9FocT/CdEl5dTIJBUwvNYccjnNFueu3Z7gtsT4VnA==",
   "success": true,
-  "projectFilePath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj",
+  "projectFilePath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\CasosDeUso\\CasosDeUso.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Randis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
   ],

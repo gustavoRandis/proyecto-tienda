@@ -4233,11 +4233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
+      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
       "projectName": "Tiendita.WebApi",
-      "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
+      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\Tiendita.WebApi.csproj",
       "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-      "outputPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\obj\\",
+      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4254,11 +4254,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\InversionDependencia.cs\\InversionDependencia.cs.csproj"
             },
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj"
             }
           }
         }

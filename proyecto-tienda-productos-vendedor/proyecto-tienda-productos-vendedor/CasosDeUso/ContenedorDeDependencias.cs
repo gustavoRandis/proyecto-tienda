@@ -12,7 +12,7 @@ namespace CasosDeUso
         {
             services.AddScoped<ICrearProductoInputPort, CrearProductoIteractor>();
 
-            //services.AddScoped<IBorrarProductoInputPort, BorrarProductoIteractor>();
+            services.AddScoped<IBorrarProductoInputPort, BorrarProductoIteractor>();
 
             //services.AddScoped<IActualizarProductoInputPort, ActualizarProductoIteractor>();
 

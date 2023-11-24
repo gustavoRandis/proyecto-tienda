@@ -87,3 +87,22 @@ D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\pro
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.pdb
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.genruntimeconfig.cache
 D:\POYECTOS VISUAL\TIENDITA ANDANDO\gusty\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\ref\Tiendita.Repositorio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.deps.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.runtimeconfig.json
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Repositorio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Entity.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.Entity.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\bin\Debug\net7.0\Tiendita.ReglasdeNegocio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.AssemblyReference.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.AssemblyInfoInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.AssemblyInfo.cs
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.CoreCompileInputs.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.csproj.CopyComplete
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\refint\Tiendita.Repositorio.dll
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.pdb
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\Tiendita.Repositorio.genruntimeconfig.cache
+D:\GITHUB\proyecto-tienda\proyecto-tienda-productos-vendedor\proyecto-tienda-productos-vendedor\Tiendita.Repositorio\obj\Debug\net7.0\ref\Tiendita.Repositorio.dll

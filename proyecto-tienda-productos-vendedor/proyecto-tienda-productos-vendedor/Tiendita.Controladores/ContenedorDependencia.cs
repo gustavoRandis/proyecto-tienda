@@ -17,7 +17,7 @@ namespace Tiendita.Controladores
         {
             services.AddScoped<ICrearProducto, CrearProductoControlador>();
 
-            //services.AddScoped<IDeleteActorController, DeleteActorController>();
+            services.AddScoped<IBorrarProducto, BorrarProductoControlador>();
 
             //services.AddScoped<IUpdateActorController, UpdateActorController>();
 

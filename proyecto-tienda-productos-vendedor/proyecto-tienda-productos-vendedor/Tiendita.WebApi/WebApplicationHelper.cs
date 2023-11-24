@@ -59,7 +59,7 @@ namespace Tiendita.WebApi
             //app.GetAllActorEndPoint();
             //app.GetActorEndPoint();
             app.CreateProductoEndPoint();
-            //app.DeleteActorEndPoint();
+            app.DeleteProductoEndPoint();
 
             // Agregar el Middleware CORS
             app.UseCors();

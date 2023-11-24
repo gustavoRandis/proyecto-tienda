@@ -3711,11 +3711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
+      "projectUniqueName": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
       "projectName": "Tiendita.Repositorio",
-      "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
+      "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\Tiendita.Repositorio.csproj",
       "packagesPath": "C:\\Users\\Gustavo Randis\\.nuget\\packages\\",
-      "outputPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\obj\\",
+      "outputPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.Repositorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Randis\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3732,11 +3732,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\reglasdenegocio\\Tiendita.Entity.csproj"
             },
-            "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
-              "projectPath": "D:\\POYECTOS VISUAL\\TIENDITA ANDANDO\\gusty\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
+            "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj": {
+              "projectPath": "D:\\GITHUB\\proyecto-tienda\\proyecto-tienda-productos-vendedor\\proyecto-tienda-productos-vendedor\\Tiendita.ReglasdeNegocio\\Tiendita.ReglasdeNegocio.csproj"
             }
           }
         }

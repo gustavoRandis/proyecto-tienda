@@ -10,6 +10,7 @@ namespace Presentador
         {
 
             services.AddScoped<ICrearProductoPresentador, CrearProductoPresentador>();
+            services.AddScoped<IBorrarProductoPresentador, BorrarProductoPresentador>();
             return services;
         }
     }
