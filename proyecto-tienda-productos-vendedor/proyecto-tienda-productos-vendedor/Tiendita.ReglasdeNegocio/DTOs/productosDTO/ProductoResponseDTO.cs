@@ -8,7 +8,7 @@ namespace Tiendita.ReglasdeNegocio.DTOs.productosDTO
 {
     public class ProductoResponseDTO
     {
-        public int idProducto {  get; set; }
-        public string? nombre { get; set; }
+        public int IdProducto {  get; set; }
+        public string? Nombre { get; set; }
     }
 }

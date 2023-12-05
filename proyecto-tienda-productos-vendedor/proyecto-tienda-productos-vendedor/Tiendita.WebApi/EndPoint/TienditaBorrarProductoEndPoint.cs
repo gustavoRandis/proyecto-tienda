@@ -8,7 +8,7 @@ namespace Tiendita.WebApi.EndPoint
     {
         public static WebApplication DeleteProductoEndPoint(this WebApplication app)
         {
-            app.MapPut("/producto/delete/{id}", async (IBorrarProducto controller, int id) =>
+            app.MapPut("borrar producto", async (IBorrarProductoControlador controller, int id) =>
             {
                 var producto = await controller.BorrarProducto(id);
                 if (producto == null)

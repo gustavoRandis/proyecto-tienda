@@ -14,11 +14,11 @@ namespace CasosDeUso
 
             services.AddScoped<IBorrarProductoInputPort, BorrarProductoIteractor>();
 
-            //services.AddScoped<IActualizarProductoInputPort, ActualizarProductoIteractor>();
+            services.AddScoped<IActualizarProductoInputPort, ActualizarProductoIteractor>();
 
-            //services.AddScoped<IObtenerProductoInputPort, ObtenerProductoIteractor>();
+            services.AddScoped<IObtenerProductoInputPort, ObtenerProductoIteractor>();
 
-            //services.AddScoped<IObtenerTodosProductosInputPort, ObtenerTodosProductosIteractor>();
+            services.AddScoped<IObtenerTodosProductosInputPort, ObtenerTodosProductosIteractor>();
 
             return services;
 

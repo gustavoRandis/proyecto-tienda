@@ -56,8 +56,8 @@ namespace Tiendita.WebApi
             }
 
             // Registrar los endpoints de la aplicación
-            //app.GetAllActorEndPoint();
-            //app.GetActorEndPoint();
+            app.ObtenerProductoEndPoint();
+            app.ObtenerTodosProductosEndPoint();
             app.CreateProductoEndPoint();
             app.DeleteProductoEndPoint();
 

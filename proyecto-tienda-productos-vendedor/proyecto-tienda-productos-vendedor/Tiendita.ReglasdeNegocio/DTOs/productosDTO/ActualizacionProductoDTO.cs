@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Tiendita.ReglasdeNegocio.DTOs.productosDTO
 {
-    public class actualizacionProducto
+    public class ActualizacionProductoDTO
     {
-        public string nombre { get; set; }
-        public string descripcion { get; set; }
+        public int IdProducto {  get; set; }
+        public string? Nombre { get; set; }
+
 
     }
 }

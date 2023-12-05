@@ -17,7 +17,7 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Tiendita.Controladores.ControladoresProductos
 {
-    public class CrearProductoControlador : ICrearProducto
+    public class CrearProductoControlador : ICrearProductoControlador
     {
         readonly ICrearProductoInputPort _inputPort;
         readonly ICrearProductoPresentador _presenter;

@@ -9,6 +9,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoOu
 {
     public interface IActualizarProductoOutputPort
     {
-        Task handle(WrapperActualizarProducto Producto);
+        Task Handle(WrapperActualizarProducto Producto);
     }
 }

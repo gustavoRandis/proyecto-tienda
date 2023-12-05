@@ -9,6 +9,6 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoOu
 {
     public interface IObtenerProductoOutputPort
     {
-        Task handle(WrapperObtenerProducto Producto);
+        Task Handle(WrapperObtenerProducto Producto);
     }
 }

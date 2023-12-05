@@ -15,15 +15,15 @@ namespace Tiendita.Controladores
     {
         public static IServiceCollection AddServicesControllers(this IServiceCollection services)
         {
-            services.AddScoped<ICrearProducto, CrearProductoControlador>();
+            services.AddScoped<ICrearProductoControlador, CrearProductoControlador>();
 
-            services.AddScoped<IBorrarProducto, BorrarProductoControlador>();
+            services.AddScoped<IBorrarProductoControlador, BorrarProductoControlador>();
 
-            //services.AddScoped<IUpdateActorController, UpdateActorController>();
+            services.AddScoped<IActualizarProductoControlador, ActualizarProductoControlador>();
 
-            //services.AddScoped<IGetActorByIdController, GetActorByIdController>();
+            services.AddScoped<IObtenerProductoControlador, ObtenerProductoControlador>();
 
-            //services.AddScoped<IGetAllActorController, GetAllActorController>();
+            services.AddScoped<IObtenerTodosProductosControlador, ObtenerTodosProductosControlador>();
 
             return services;
 

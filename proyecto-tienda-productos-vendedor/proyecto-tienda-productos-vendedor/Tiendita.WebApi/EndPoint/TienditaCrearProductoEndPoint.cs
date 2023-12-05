@@ -7,7 +7,7 @@ namespace Tiendita.WebApi.EndPoint
     {
         public static WebApplication CreateProductoEndPoint(this WebApplication app)
         {
-            app.MapPost("/create", async (CrearProductoDTO request, ICrearProducto controller) =>
+            app.MapPost("crear nuevo producto", async (CrearProductoDTO request, ICrearProductoControlador controller) =>
             {
                 var result = await controller.CrearProducto(request);
 

@@ -8,8 +8,8 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProductos
 {
-    public interface IModificarProducto
+    public interface IActualizarProductoControlador
     {
-        Task<WrapperActualizarProducto> ActulizarProducto(actualizacionProducto request);
+        Task<WrapperCrearProducto> ActulizarProducto(ActualizacionProductoDTO request);
     }
 }

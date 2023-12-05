@@ -6,6 +6,7 @@ namespace Tiendita.ReglasdeNegocio.Wrappers.Producto
 {
     public class WrapperObtenerProducto : BaseWrapper
     {
-        public ProductoResponseDTO producto {  get; set; }
+        public int IdProducto {  get; set; }
+        public string? Nombre { get; set; }
     }
 }

@@ -11,7 +11,7 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 namespace Tiendita.Controladores.ControladoresProductos
 {
 
-    public class BorrarProductoControlador : IBorrarProducto
+    public class BorrarProductoControlador : IBorrarProductoControlador
     {
         readonly IBorrarProductoInputPort _inputPort;
         readonly IBorrarProductoPresentador _presenter;

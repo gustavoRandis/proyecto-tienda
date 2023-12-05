@@ -2,7 +2,7 @@
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProductos
 {
-    public interface IBorrarProducto
+    public interface IBorrarProductoControlador
     {
         Task<WrapperBorrarProducto> BorrarProducto(int IdProducto);
     }

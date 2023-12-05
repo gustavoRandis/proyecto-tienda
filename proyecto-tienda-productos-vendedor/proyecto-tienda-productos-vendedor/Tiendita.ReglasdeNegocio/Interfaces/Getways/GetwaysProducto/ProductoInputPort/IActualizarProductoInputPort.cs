@@ -10,7 +10,7 @@ namespace Tiendita.ReglasdeNegocio.Interfaces.Getways.GetwaysProducto.ProductoIn
         /// </summary>
         /// <param name="updateActorRequest">Contiene los detalles actualizados del actor,
         /// incluido el Id del actor que se debe actualizar.</param>
-        Task Handle(actualizacionProducto actualizacionProducto);
+        Task Handle(ActualizacionProductoDTO actualizacionProducto);
     }
 
 }

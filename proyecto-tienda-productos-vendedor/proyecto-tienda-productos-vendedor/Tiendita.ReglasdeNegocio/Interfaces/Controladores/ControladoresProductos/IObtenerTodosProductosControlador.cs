@@ -7,7 +7,7 @@ using Tiendita.ReglasdeNegocio.Wrappers.Producto;
 
 namespace Tiendita.ReglasdeNegocio.Interfaces.Controladores.ControladoresProductos
 {
-    public interface IObtenerTodosProductos
+    public interface IObtenerTodosProductosControlador
     {
             ValueTask<WrapperObtenerTodosProductos> ObtenerTodos();
     }
